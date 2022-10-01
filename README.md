@@ -19,5 +19,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 #Screenshots
-![alt text](flutter_application_2/Preview/Home_Page.png)
 
+![alt text](flutter_application_2/Preview/Home_Page.png)
+![alt_text](flutter_application_2/Preview/My_Projects_Page.png)
+![alt_text](flutter_application_2/Preview/Get_in_touch_page.png.png)
